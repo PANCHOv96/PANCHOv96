@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   update-readme:
@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: '6f3c56ee-5bc1-4e71-8cb2-606567a736b9'
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
