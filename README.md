@@ -41,11 +41,8 @@ class Skills extends SoftwareDeveloper {
    currentOccupation: ['open for job opportunities'],
 }
 ```
-### DATA 👋
 <!--START_SECTION:waka-->
-```text
 
-```
 <!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -56,6 +53,6 @@ class Skills extends SoftwareDeveloper {
 <a href="https://www.linkedin.com/in/francisco-fabian-vallone-510b71223/">
   <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:asd@gmail.com">
+<a href="mailto:fvallone@hotmail.es">
   <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
