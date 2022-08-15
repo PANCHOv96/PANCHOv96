@@ -41,6 +41,7 @@ class Skills extends SoftwareDeveloper {
    currentOccupation: ['open for job opportunities'],
 }
 ```
+### DATA 👋
 <!--START_SECTION:waka-->
 ```text
 
