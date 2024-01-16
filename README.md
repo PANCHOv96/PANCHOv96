@@ -19,20 +19,20 @@ Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (no
 
 ----
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+<div style="width:50%;height:0;padding-bottom:75%;margin-right:75%">
   <img align="left" alt="GIF" src="https://64.media.tumblr.com/604ce393cef474ee082433b535f272d3/026a1af30e0751b5-79/s1280x1920/41b3973f52f7097c543034e142499635d267a65d.gifv" height="400"/>
 </div>
-<div align="left" margin='100px'>
+<div align="left" style="padding-left: 10px">
+ 
+  🔭 Actualmente estoy trabajando en .....
+ 
+  🌱 Actualmente estoy aprendiendo TypeScript y actualizandome en React
   
-- 🔭 Actualmente estoy trabajando en .....
+  ❓ Pregúntame sobre cualquier cosa relacionada con React
   
-- 🌱 Actualmente estoy aprendiendo TypeScript y actualizandome en React
+  📫 Cómo contactarme: vallonefrancisco.dev@gmail.com
   
-- ❓ Pregúntame sobre cualquier cosa relacionada con React
-  
-- 📫 Cómo contactarme: vallonefrancisco.dev@gmail.com
-
-- 😄 Pronombres: pancho
+  😄 Pronombres: pancho
 </div>
 
 <br/>
@@ -67,7 +67,7 @@ Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (no
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<!--   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 <br />
