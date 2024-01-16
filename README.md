@@ -16,9 +16,9 @@
 </div>
 <br/>
 Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (no termine) , seguí especializándome en cursos en udemy y por ultimo me gradué del Bootcamp soyHenry como Full Stack Developer. Trabajo en proyectos independientes y uso el tiempo para desarrollar mis habilidades. Dedico mis horas de ocio a entrenar y aprender cosas nuevas. Realice un E-commerce de vinos, que fue el trabajo final en el Bootcamp. Si tienes alguna duda o quieres contactar conmigo puedes hacerlo a través de cualquiera de las redes que tengo disponibles, estaré encantado de responderte. ¡Atentamente!
-<br/>
-<br/>
-<br/>
+
+----
+
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
   <img align="left" alt="GIF" src="https://64.media.tumblr.com/604ce393cef474ee082433b535f272d3/026a1af30e0751b5-79/s1280x1920/41b3973f52f7097c543034e142499635d267a65d.gifv" height="400"/>
 </div>
@@ -43,7 +43,7 @@ Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (no
 <br/>
 <br/>
 <br/>
-<br/>
+
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
   <img align="right" alt="GIF" src="https://paginawebprofesional.es/wp-content/uploads/2022/06/disenador-web-3.gif" width="500"/>
 </div
@@ -71,10 +71,24 @@ Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (no
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 <br />
+<br />
+<br />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PANCHOv96&theme=tokyonight)
+<br />
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=panchov96&&style=flat-square" align="center" />
 </div>  
+
 ----
+
+
+
+
+
+
+
 
 
 <!--
@@ -104,9 +118,7 @@ class Skills extends SoftwareDeveloper {
    currentOccupation: ['open for job opportunities'],
 }
 ```
-
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PANCHOv96&theme=tokyonight)
 
 
 
