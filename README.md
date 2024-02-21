@@ -15,7 +15,7 @@
   </a>
 </div>
 <br/>
-Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (no termine) , seguí especializándome en cursos en udemy y por ultimo me gradué del Bootcamp soyHenry como Full Stack Developer. Trabajo en proyectos independientes y uso el tiempo para desarrollar mis habilidades. Dedico mis horas de ocio a entrenar y aprender cosas nuevas. Realice un E-commerce de vinos, que fue el trabajo final en el Bootcamp. Si tienes alguna duda o quieres contactar conmigo puedes hacerlo a través de cualquiera de las redes que tengo disponibles, estaré encantado de responderte. ¡Atentamente!
+Inicié mi camino en el desarrollo en la ingenieria en informatica donde fui (hasta el 3er año de carrera) , seguí especializándome en cursos en udemy y por ultimo me gradué del Bootcamp soyHenry como Full Stack Developer. Trabajo en proyectos independientes y uso el tiempo para desarrollar mis habilidades. Dedico mis horas de ocio a entrenar y aprender cosas nuevas. Realice un E-commerce de vinos, que fue el trabajo final en el Bootcamp. Si tienes alguna duda o quieres contactar conmigo puedes hacerlo a través de cualquiera de las redes que tengo disponibles, estaré encantado de responderte. ¡Atentamente!
 
 ----
 
